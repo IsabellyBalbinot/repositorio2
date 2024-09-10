@@ -1,4 +1,4 @@
-# Sistema de Cadastrode peso e Alunos
+# Sistema de Cadastro de peso e Alunos
 
 Este projeto é um programa que solicita a entrada da idade, peso e altura de alunos. Ele calcula a soma de todos os números inteiros de 1 até a idade informada. O processo continua até que o usuário insira zero para a idade, encerrando o programa.
 (exemplo.png)
